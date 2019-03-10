@@ -1,6 +1,6 @@
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 def display_board(board)
-  puts " X #{board[4]}"
+  puts "#{board[4]}"
 end
 
 # out the current state.
