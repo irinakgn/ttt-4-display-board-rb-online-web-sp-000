@@ -1,5 +1,5 @@
 board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
 def display_board(board)
-end 
+end
 
 # out the current state.
