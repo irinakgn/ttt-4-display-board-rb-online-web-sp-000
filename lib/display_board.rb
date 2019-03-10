@@ -1,4 +1,4 @@
 def display_board
-end 
+end
 
 # out the current state.
